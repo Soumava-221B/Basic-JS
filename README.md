@@ -32,3 +32,12 @@ When you use symbol it will always give you immutable and unique value
 
 ## Difference between type conversion and type coercion
 In JavaScript, type conversion is the process of explicitly changing the type of a value, while type coercion is the implicit type conversion that happens when JavaScript tries to perform an operation with values of different types.
+
+03/11/23
+## Agenda 
+- How js works internally
+- execution
+- call stack
+- lexical scoping
+- hoisting
+- closures
