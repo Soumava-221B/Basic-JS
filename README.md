@@ -41,3 +41,13 @@ In JavaScript, type conversion is the process of explicitly changing the type of
 - lexical scoping
 - hoisting
 - closures
+
+06/11/23
+## Agenda
+- constructor
+- this keyword
+- strict mode
+- call, apply, bind methods
+
+## Note
+1. Never use arrow function in the constructor
