@@ -43,6 +43,7 @@ let obj = {
     }
 }
 
-//obj.dummy();
+obj.dummy();
+
 
 //3. constructor
