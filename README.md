@@ -52,3 +52,10 @@ In JavaScript, type conversion is the process of explicitly changing the type of
 ## Note
 1. Never use arrow function in the constructor
 2. Arrow function always borow this form the surrounding scope.
+
+14/11/23
+## Agenda
+1. Synchronous and Asynchronous
+2. Callback
+3. Promises
+4. 
