@@ -5,3 +5,5 @@ console.log(`Hello ${name}, how are you?`);
 setTimeout(() => {
     console.log('second');
 }, 1000);
+
+console.log('third');

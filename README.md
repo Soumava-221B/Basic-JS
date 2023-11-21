@@ -58,4 +58,12 @@ In JavaScript, type conversion is the process of explicitly changing the type of
 1. Synchronous and Asynchronous
 2. Callback
 3. Promises
-4. 
+
+16/11/23
+## Agenda
+1. Async js works internally
+2. promises
+3. then() catch()
+4. async await
+5. apis
+6. working with apis
